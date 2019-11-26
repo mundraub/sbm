@@ -1,0 +1,41 @@
+.center {
+  display: block;
+  margin: 20px auto;
+
+}
+
+footer {
+  min-height: 150px;
+  width: 100%;
+  background-color: #756f87;
+}
+
+footer p {
+  padding: 50px;
+  color: white;
+  text-align: center;
+}
+
+.display-4 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.link {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.expand {
+  color: lightgray;
+}
+
+.expand:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.brief {
+  margin-top: 25px;
+}
